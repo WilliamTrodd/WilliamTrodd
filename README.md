@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @WilliamTrodd
-- 👀 I’m interested in Fullstack WebDev and Research Software
-- 🌱 I’m currently learning React/Node.js
+## 👋 Hi, I’m @WilliamTrodd
+- 👀 I’m looking for a fullstack development job
+- 🌳 I'd love to work in ClimateTech
+- 👾 I'm enjoying using Vue and NodeJS
+- 🚀 I like to use Astro for multipage, content heavy sites
 
 <!---
 WilliamTrodd/WilliamTrodd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
